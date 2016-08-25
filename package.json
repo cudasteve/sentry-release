@@ -8,8 +8,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/cudasteve/sentry-release"
-  },
-  "scripts": {
-    "postinstall": "pip install -r requirements.txt"
   }
 }
